@@ -17,9 +17,9 @@ nav div.container{
 	background-color: coral;
 }
 
-.navbar-brand h1{
+/*.navbar-brand h1{
 	margin-left: 15px;
-}
+}*/
 
 
 .navbar-toggler{
@@ -38,9 +38,11 @@ div.container .col-xs-12{
 	margin-right: auto;
 	margin-left: auto;
 }
+div.row{
+	margin: 15px;
+}
 
-
-@media (max-width: 575px){
+/*@media (max-width: 575px){
 	div.container .col-xs-12{
 		width: 90%;
 		margin-left: auto;
@@ -48,4 +50,4 @@ div.container .col-xs-12{
 		margin-bottom: 30px;
 		height: 1000px;
 	}
-}
+}*/
